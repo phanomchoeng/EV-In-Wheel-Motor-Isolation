@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "EV In-Wheel Motor Isolation"
+type: software
+authors:
+  - family-names: "Phanomchoeng"
+    given-names: "Gridsada"
+    affiliation: "Department of Mechanical Engineering, Faculty of Engineering, Chulalongkorn University, Bangkok, Thailand"
+version: 1.0.0
+date-released: 2026-09-28
+license: MIT
+repository-code: "https://github.com/phanomchoeng/EV-In-Wheel-Motor-Isolation"
