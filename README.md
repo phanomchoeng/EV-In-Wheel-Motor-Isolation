@@ -97,7 +97,7 @@ These directories contain the generated numerical results, figures, CSV tables, 
 Run:
 
 ```matlab
-reviewer1_force_limited_validation
+ev_force_limited_validation
 ```
 
 The script creates:
